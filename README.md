@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavoudTaghipour
 - 👀 I’m interested in Cloud computing
 - 🌱 I’m currently working as a Wintel Project Engineer 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Azure stuff...!
+- 📫 Contact me at @ davoud.taghipour@hotmail.com
 
 <!---
 DavoudTaghipour/DavoudTaghipour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
