@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavoudTaghipour
 - 👀 I’m interested in Cloud computing
-- 🌱 I’m currently working as a Wintel Project Engineer 
+- 🌱 I’m currently work a Systems engineer.
 - 💞️ I’m looking to collaborate on Azure stuff...!
 - 📫 Contact me at @ davoud.taghipour@hotmail.com
 
